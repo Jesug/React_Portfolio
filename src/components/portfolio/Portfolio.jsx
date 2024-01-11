@@ -17,13 +17,13 @@ const data = [
     image: IMG2,
     title: 'PYTHON FLASK HELLO APP',
     github: 'https://github.com/Jesug/Flask_HelloApp',
-    demo: ''
+    demo: 'https://github.com/Jesug/Flask_HelloApp'
   },
   {
     id: 3,
     image: IMG3,
     title: 'E-COMMERCE CLOTHE SHOPPING WEBSITE',
-    github: '',
+    github: 'http://Jesug.github.io/ReactApp/',
     demo: 'http://Jesug.github.io/ReactApp/'
   },
 ]
