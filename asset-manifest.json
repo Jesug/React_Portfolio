@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.ee144c3a.css",
+    "main.js": "/React-Portfolio/static/js/main.783ab510.js",
+    "static/media/E-commerce.png": "/React-Portfolio/static/media/E-commerce.c927acae60aec4756f15.png",
+    "static/media/FineDining.png": "/React-Portfolio/static/media/FineDining.b32904ef9d9c6d8e3bbf.png",
+    "static/media/me2.png": "/React-Portfolio/static/media/me2.352056d6a49ca154b5c8.png",
+    "static/media/cartoon.jpg": "/React-Portfolio/static/media/cartoon.26e3a2adba9964173153.jpg",
+    "static/media/Flask-HelloApp.png": "/React-Portfolio/static/media/Flask-HelloApp.243f174c409bdcc79345.png",
+    "static/media/RESUME.JESUGBEMISOLA.pdf": "/React-Portfolio/static/media/RESUME.JESUGBEMISOLA.ff259d3948867ed678e9.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.ee144c3a.css.map": "/React-Portfolio/static/css/main.ee144c3a.css.map",
+    "main.783ab510.js.map": "/React-Portfolio/static/js/main.783ab510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee144c3a.css",
+    "static/js/main.783ab510.js"
+  ]
+}
